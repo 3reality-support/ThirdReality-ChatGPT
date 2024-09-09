@@ -9,7 +9,7 @@ The purpose of `r3_talk` is to provide seamless speech capabilities on our custo
 * A [`Linux speaker`](https://3reality.com/product/smart-speaker-development-kit/) with Armbian firmware
 * A self-developed [`debug board`](https://3reality.com/product/smart-speaker-development-kit/) available for assistance
 
-The `factory speaker` is equipped with pre-installed Armbian firmware, and we have done some initialization configurations to enhance user convenience. Upon receiving the speaker, you can directly access the `root` user by using the initial password of `1234qwer` in order to utilize the speaker effortlessly. 
+The `factory speaker` is equipped with pre-installed Armbian firmware, and we have done some initialization configurations to enhance user convenience. Upon receiving the speaker, connect the speaker to your computer with the debug board，open serial port of the speaker，enter the user name 'root' and the initial password of '1234qwer' ,then you can directly utilize the speaker . 
 
 If the folder `3R-chatGPT` is found in the root directory, this allows you to engage in a conversation with chatGPT instantly using [`./r3_talk`](#build-and-run) command. Before running, please ensure to configure your [`OPENAI_API_KEY`](#openai_api_key) and establish a [network connection](images/README.md#2-wifi-configuration).
 
