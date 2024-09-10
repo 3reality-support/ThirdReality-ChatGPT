@@ -29,6 +29,10 @@ You can flash the speaker by using USB_Burning_Tool.exe (You need to download th
 * connect the speaker
 ![7d81baae1e512870189e50d8d541664](https://github.com/user-attachments/assets/4b7b8ddb-2449-4360-ad0c-c01000f22522)
 
+## Debug Tool
+You can use SecureCRT 、 sscom or other tools to debug
+Baud rate ：115200
+![image](https://github.com/user-attachments/assets/98bbb694-bc40-4311-9bdb-f87517d22acd)
 
 ## Config
 
