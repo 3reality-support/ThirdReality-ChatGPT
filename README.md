@@ -16,10 +16,18 @@ If the folder `3R-chatGPT` is found in the root directory, this allows you to en
 For more in-depth instructions, please consult the [images/README.md](images/README.md) file, which also explains how to re-flash the speaker if necessary. This ensures a smooth experience with the `r3_talk` project and maximizes the functionality of our `Linux speaker`.
 
 ## Operation Instruction of the Debug Board
-connect the speaker to your computer
+connect the speaker to your computer like the following picture
+typc-c port: Need to distinguish between positive and negative sides
+power: power supply
+log: need to use a data cable
 ![image](https://github.com/user-attachments/assets/f405bfe1-7948-49be-925e-d3c869ab9b90)
 
-
+## How to flash the speaker
+You can flash the speaker by using USB_Burning_Tool.exe (You need to download the Burning Tool)
+1.import your image
+2.click "start"
+3.connect the speaker
+![7d81baae1e512870189e50d8d541664](https://github.com/user-attachments/assets/4b7b8ddb-2449-4360-ad0c-c01000f22522)
 
 
 ## Config
