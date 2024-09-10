@@ -17,9 +17,9 @@ For more in-depth instructions, please consult the [images/README.md](images/REA
 
 ## Operation Instruction of the Debug Board
 connect the speaker to your computer like the following picture
-typc-c port: Need to distinguish between positive and negative sides
-power: power supply
-log: need to use a data cable
+* typc-c port: Need to distinguish between positive and negative sides
+* power: power supply
+* log: need to use a data cable
 ![image](https://github.com/user-attachments/assets/f405bfe1-7948-49be-925e-d3c869ab9b90)
 
 ## How to flash the speaker
