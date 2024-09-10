@@ -20,6 +20,7 @@ connect the speaker to your computer like the following picture
 * typc-c port: Need to distinguish between positive and negative sides，insert face up
 * power: power supply
 * log: need to use a data cable
+  
 ![image](https://github.com/user-attachments/assets/378b0cc3-8116-4035-a299-39706208e0c1)
 
 
