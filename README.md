@@ -15,6 +15,9 @@ If the folder `3R-chatGPT` is found in the root directory, this allows you to en
 
 For more in-depth instructions, please consult the [images/README.md](images/README.md) file, which also explains how to re-flash the speaker if necessary. This ensures a smooth experience with the `r3_talk` project and maximizes the functionality of our `Linux speaker`.
 
+## Operation Instruction of the Debug Board
+
+
 ## Config
 
 The example `r3_talk` example depends on some libraries. You can config it:
