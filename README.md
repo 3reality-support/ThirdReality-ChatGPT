@@ -24,9 +24,9 @@ connect the speaker to your computer like the following picture
 
 ## How to flash the speaker
 You can flash the speaker by using USB_Burning_Tool.exe (You need to download the Burning Tool)
-1.import your image
-2.click "start"
-3.connect the speaker
+* import your image
+* click "start"
+* connect the speaker
 ![7d81baae1e512870189e50d8d541664](https://github.com/user-attachments/assets/4b7b8ddb-2449-4360-ad0c-c01000f22522)
 
 
