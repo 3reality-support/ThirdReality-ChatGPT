@@ -17,10 +17,11 @@ For more in-depth instructions, please consult the [images/README.md](images/REA
 
 ## Operation Instruction of the Debug Board
 connect the speaker to your computer like the following picture
-* typc-c port: Need to distinguish between positive and negative sides
+* typc-c port: Need to distinguish between positive and negative sides，insert face up
 * power: power supply
 * log: need to use a data cable
-![image](https://github.com/user-attachments/assets/f405bfe1-7948-49be-925e-d3c869ab9b90)
+![image](https://github.com/user-attachments/assets/378b0cc3-8116-4035-a299-39706208e0c1)
+
 
 ## How to flash the speaker
 You can flash the speaker by using USB_Burning_Tool.exe (You need to download the Burning Tool)
