@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f405bfe1-7948-49be-925e-d3c869ab9b90)# 3R-chatGPT
+# 3R-chatGPT
 
 We have developed a new example called `r3_talk` based on the [whisper.cpp](https://github.com/ggerganov/whisper.cpp) project. This integration combines the power of the OpenAI API with the open-source TTS (Text-to-Speech) project called [piper](https://github.com/rhasspy/piper). 
 
@@ -17,7 +17,7 @@ For more in-depth instructions, please consult the [images/README.md](images/REA
 
 ## Operation Instruction of the Debug Board
 connect the speaker to your computer
-
+![image](https://github.com/user-attachments/assets/f405bfe1-7948-49be-925e-d3c869ab9b90)
 
 
 
