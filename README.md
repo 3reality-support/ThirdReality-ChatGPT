@@ -29,6 +29,7 @@ You can flash the speaker by using USB_Burning_Tool.exe (You need to download th
 * import your image
 * click "start"
 * connect the speaker
+  
 ![image](https://github.com/user-attachments/assets/2731bcd7-721d-4a4d-8074-b3b432eecc0c)
 
 
