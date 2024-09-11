@@ -1,11 +1,11 @@
 # Hardware
 
 The project operates on our custom `Linux speaker`, running the Armbian system as its firmware. Additionally, we utilize our self-developed `debug board` that not only facilitates program burning but also enables command input to the speaker via the serial port.
-* [Linux speaker](https://www.3reality.com/online-store/Smart-Speaker-DEV-Kit-p572273110)
+* [Linux speaker](https://3reality.com/product/smart-speaker-development-kit/)
 
 <a href="/images/speaker.jpg"><img src="speaker.jpg" width="40%"></a>
 
-* [debug board](https://www.3reality.com/online-store/Smart-Speaker-DEV-Kit-p572273110)
+* [debug board](https://3reality.com/product/smart-speaker-development-kit/)
 
 <a href="/images/debug_board.jpg"><img src="debug_board.jpg" width="40%"></a>
 
