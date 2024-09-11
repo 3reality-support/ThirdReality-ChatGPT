@@ -17,7 +17,7 @@ For more in-depth instructions, please consult the [images/README.md](images/REA
 
 ## Operation Instruction of the Debug Board
 connect the speaker to your computer like the following picture
-* typc-c port: Need to distinguish between positive and negative sides，insert face up
+* typc-c port: Ensure that the USB Type-C interface of the debug board is correctly connected to the speaker as shown in the following figure. If it is inserted in reverse, no log information will be displayed through the serial port.
 * power: power supply
 * log: need to use a data cable
   
